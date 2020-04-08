@@ -73,4 +73,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # BSAG-DASHBOARD
+This dashboard allows the manipulation of BSAG's openservice API to create custom requests and thus a customized departure / arrival dashboard.
+
+You need to request an API Key from BSAG here:
+https://www.vbn.de/service/entwicklerinfos/
+
+
 # BSAG--Transit-dashboard
+To run, create react app and customize your API GET Methods.
